@@ -27,7 +27,7 @@ A modern, responsive financial management dashboard built with **Vite**, **React
 - **Category-Based Organization**: Predefined categories for both expenses and income
 
 **Live URL**
-[View Project](https://your-project.vercel.app)
+[View Project](https://finance-dashboard-zorvyn-six.vercel.app)
 
 ## Getting Started
 
